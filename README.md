@@ -4,6 +4,7 @@ Primerjava letalskih kart (projekt pri programiranju 1)
 Pri porojektu sem primerjal cene letalskih kart, ki jih ponujata Ryanair in Volotea, za let Benetke - Krf in nazaj. Predpostavil sem, da bo letenje z Ryanair-om ceneje, a izkaže se, da je najboljša opcija, če za let Benetke - Krf kupim karto pri Ryanair-u, Krf - Benetke pa pri Voloteji. Spodaj prilagam opis datotek, ki jih ta repozitorij vsebuje.
 
 Seznam datotek:
+
   Datoteka letalske_karte.ipynb je predstavitev celotnega projekta. Paziti je treba, kam se shrani datoteke, saj mora ipython na   začetku prebrati csv datoteke iz mape na računalniku (je potrebno napisat ustrezno pot).
   
   ryanair_api.py in volotea_api.py naloži podatke iz spletnih strani letalskih ponudnikov.
