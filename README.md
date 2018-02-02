@@ -1,5 +1,4 @@
-# letalske_karte
-#Primerjava letalskih kart (projekt pri programiranju 1)
+# Primerjava letalskih kart (projekt pri programiranju 1)
 
 Pri porojektu sem primerjal cene letalskih kart, ki jih ponujata Ryanair in Volotea, za let Benetke - Krf in nazaj. Predpostavil sem, da bo letenje z Ryanair-om ceneje, a izkaže se, da je najboljša opcija, če za let Benetke - Krf kupim karto pri Ryanair-u, Krf - Benetke pa pri Voloteji. Spodaj prilagam opis datotek, ki jih ta repozitorij vsebuje.
 
@@ -13,3 +12,7 @@ Pri porojektu sem primerjal cene letalskih kart, ki jih ponujata Ryanair in Volo
   
   *ryanair_2016-02-17.csv in ostale csv datoteke vsebujejo podatke, ki sem jih naložil dne 17. februarja 2016.
 
+# EN:
+# Comparison of the ariplanes tickets prices (project at subject Programming 1)
+
+I compares prices for the companies Ryanair and Volotea for the two-way fligth Venice - Krf. I assumed that choosing Ryanair would be cheper, but I discovered that the best option is to fly with Ryanair at the destination Venice - Krf and switching to Volotea for the flying back.
