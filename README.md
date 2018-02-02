@@ -15,4 +15,4 @@ Pri porojektu sem primerjal cene letalskih kart, ki jih ponujata Ryanair in Volo
 # EN:
 # Comparison of the ariplanes tickets prices (project at subject Programming 1)
 
-I compares prices for the companies Ryanair and Volotea for the two-way fligth Venice - Krf. I assumed that choosing Ryanair would be cheper, but I discovered that the best option is to fly with Ryanair at the destination Venice - Krf and switching to Volotea for the flying back.
+I compared prices for the companies Ryanair and Volotea for the two-way fligth Venice - Krf. I assumed that choosing Ryanair would be cheper, but I discovered that the best option is to fly with Ryanair at the destination Venice - Krf and switching to Volotea for the flying back.
